@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
+show_downloads: true
+github:
+  zip_url: https://github.com/kendepelchin/android-web-messages-mac/releases/download/1.0.0/android-web-messages.app.zip
+  tar_url: https://github.com/kendepelchin/android-web-messages-mac/archive/1.0.0.tar.gz
+google_analytics: UA-51640309-1
 title: Android messages for Mac
 description: It's a MacGap wrapper for Android Messages for web
