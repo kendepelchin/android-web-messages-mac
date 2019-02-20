@@ -1,0 +1,29 @@
+{
+  "name": "android-web-messages",
+  "version": "1.0.0",
+  "description": "An Android Messages wrapper with Electron",
+  "productName": "Android Web Messages for Mac",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^4.0.5",
+    "electron-packager": "^13.1.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --icon ./assets/icons/icon.icns --out lib/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendepelchin/android-web-messages-mac.git"
+  },
+  "author": "Ken Depelchin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendepelchin/android-web-messages-mac/issues"
+  },
+  "homepage": "https://kendepelchin.github.io/android-web-messages-mac"
+}

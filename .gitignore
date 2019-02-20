@@ -1,0 +1,15 @@
+# dotfiles except allowed
+.*
+!.gitattributes
+!.gitignore
+
+# dependencies
+node_modules/
+
+# build output
+lib/
+coverage/
+
+# lock files
+yarn.lock
+package-lock.json
