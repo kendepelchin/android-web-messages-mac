@@ -1,6 +1,6 @@
 {
   "name": "android-web-messages",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An Android Messages wrapper with Electron",
   "productName": "Android Web Messages for Mac",
   "main": "index.js",
