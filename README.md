@@ -10,5 +10,5 @@ You can download & install [here](https://kendepelchin.github.io/android-web-mes
 Install macgap & build it using the following instructions
 
 ```
-macgap build android-web-messages
+npm run build
 ```
