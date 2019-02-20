@@ -5,4 +5,4 @@ github:
   tar_url: https://github.com/kendepelchin/android-web-messages-mac/archive/1.0.0.tar.gz
 google_analytics: UA-51640309-1
 title: Android messages for Mac
-description: It's a MacGap wrapper for Android Messages for web
+description: It's an Electron app for Android Messages for web
